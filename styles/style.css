@@ -1,0 +1,14 @@
+@charset "UTF-8";
+/*CSS Document */
+
+
+#container {
+    height: 800px;
+    width: 100%;
+}
+
+
+#mapDiv{
+    height: 100%;
+    width: 100%;
+}
